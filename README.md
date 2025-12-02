@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Computer Science Student.
+   I am Computer Science Student.
 I enjoy building simple projects to improve my skills every day.                                                                                                                                                 
 💡 Interests: Web development and frontend design .              
 🚀 My goal: Become confident in full-stack development.
